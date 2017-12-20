@@ -1,5 +1,7 @@
 # RhodeCode Subversion Backend
 
+This is still work in progress.
+
 Dockerfile for a Subversion backend for [RhodeCode Community Edition](https://rhodecode.com/open-source) and [RhodeCode Enterprise Edition](https://docs.rhodecode.com/RhodeCode-Enterprise/).
 
 For more details, see <https://docs.rhodecode.com/RhodeCode-Enterprise/admin/svn-http.html>.
